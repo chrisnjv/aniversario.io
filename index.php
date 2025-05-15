@@ -95,7 +95,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['nota'])) {
                 <?php endforeach; ?>
             </ul>
         <?php else: ?>
-            <p>Aún no has escrito ninguna nota... pero sabía que llegarías a este corazón tan especial ❤️</p>
+            <p>Aún no hemos escrito ninguna nota... pero sabía que llegarías a este corazón tan especial ❤️</p>
         <?php endif; ?>
     </div>
 
